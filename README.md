@@ -1,4 +1,5 @@
 # tienda_java_spring
+![image](https://github.com/user-attachments/assets/ccfcb532-6f04-4141-b6a8-6e4dcc29da1d)
 
 ![image](https://github.com/user-attachments/assets/c970da90-3283-488f-a96a-f31b2d921264)
 
