@@ -20,8 +20,8 @@ public class InventarioApplication {
 		DriverManagerDataSource dataSource = new DriverManagerDataSource();
 		dataSource.setDriverClassName("com.mysql.cj.jdbc.Driver");
 		dataSource.setUrl("jdbc:mysql://localhost:3306/tienda");
-		dataSource.SetUsername("giovanny");
-		dataSource.SetPassword("tapiero");
+		dataSource.setUsername("giovanny");
+		dataSource.setPassword("tapiero");
 		return dataSource;
 	}
 }
