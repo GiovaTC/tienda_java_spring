@@ -1,4 +1,4 @@
-package model;
+package tiendaspring.model;
 
 public class Producto {
 	private int id;

@@ -21,7 +21,7 @@ public class InventarioApplication {
 		dataSource.setDriverClassName("com.mysql.cj.jdbc.Driver");
 		dataSource.setUrl("jdbc:mysql://localhost:3306/tienda");
 		dataSource.SetUsername("giovanny");
-		dataSource.SetPassword("password");
+		dataSource.SetPassword("tapiero");
 		return dataSource;
 	}
 }

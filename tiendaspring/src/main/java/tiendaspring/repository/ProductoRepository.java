@@ -1,4 +1,4 @@
-package repository;
+package tiendaspring.repository;
 
 import tiendaspring.model.Producto;
 import org.springframework.jdbc.core.JdbcTemplate;
@@ -23,7 +23,7 @@ public class ProductoRepository {
 	}
 	
 	public void addProducto(Producto producto) {
-		String sql ) "INSERT INTO productos (nombre, tipo, fecha_fabricacion, fecha_vencimiento, imagen) VALUES (?,?,?,?,?)";
+		String sql = "INSERT INTO productos (nombre, tipo, fecha_fabricacion, fecha_vencimiento, imagen) VALUES (?,?,?,?,?)";
 		jdbcTemplate.update(sql, producto.getNombre(), producto.getTipo(), producto.getFechaFabricacion(), producto.getFechaVencimiento(), 
 		producto.getImagen());
 	}

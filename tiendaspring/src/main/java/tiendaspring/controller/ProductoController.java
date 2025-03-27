@@ -1,4 +1,4 @@
-package controller;
+package tiendaspring.controller;
 
 import tiendaspring.model.Producto;
 import tiendaspring.service.ProductoService;

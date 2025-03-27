@@ -1,8 +1,8 @@
-package service;
+package tiendaspring.service;
 
 import tiendaspring.model.Producto;
 import tiendaspring.repository.ProductoRepository;
-import tiendaspring.springframework.stereotype.Service;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
 
