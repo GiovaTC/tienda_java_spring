@@ -1,5 +1,7 @@
+tiendaspring\model\Producto.class
 tiendaspring\repository\ProductoRepository.class
 tiendaspring\service\ProductoService.class
 tiendaspring\repository\ProductoRepository$1.class
 tiendaspring\repository\ProductoRepository$ProductoRowMapper.class
-tiendaspring\model\Producto.class
+tiendaspring\controller\ProductoController.class
+tiendaspring\InventarioApplication.class
